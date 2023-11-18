@@ -1,3 +1,3 @@
 # pySpark-DataAnalysis-DataVisulization
 
-Supermarket Sales Data Analysis and Data Visualization using PySpark, Pandas and Matplotlib
+Sales Data Analysis and Visualization using PySpark and its DataFrame API in conjunction with Matplotlib.
